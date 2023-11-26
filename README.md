@@ -68,7 +68,7 @@ ps: Increase to 8 subscription links, each about 150 (uncertain) to avoid too ma
 </details>
 
 ### Try the number of high-speed subscriptions: `5`
-Updata：`2023-11-26 09:43:15`
+Updata：`2023-11-26 12:41:21`
 
 
 <details>
@@ -24633,17 +24633,12 @@ Updata：`2023-11-26 09:43:15`
 
 
 
->Trial subscription：
-`https://xn--rhty98cjxd.xyz/api/v1/client/subscribe?token=a9973bbe117b6e7717309e44763df65b`
 
 
 
 
->Trial subscription：
-`https://oss.v2rayse.com/proxies/data/2023-11-26/rU2E7PU.txt`
 
->Trial subscription：
-`https://xn--rhty98cjxd.xyz/api/v1/client/subscribe?token=a9973bbe117b6e7717309e44763df65b`
+
 
 
 
@@ -24651,29 +24646,44 @@ Updata：`2023-11-26 09:43:15`
 >Trial subscription：
 `https://oss.v2rayse.com/proxies/data/2023-11-26/rU2E7PU.txt`
 
->Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=7152cb9f72c996c7593e71dda05e36a8`
 
 
 
 >Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=7152cb9f72c996c7593e71dda05e36a8`
-
-
->Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=6f4a4fde1881cae0701fa1b65429eed5`
-
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=5953e2d7a56a067b7b34f9777bd0a137`
 
 >Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=6f4a4fde1881cae0701fa1b65429eed5`
+`https://oss.v2rayse.com/proxies/data/2023-11-26/rU2E7PU.txt`
+
 
 
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=0894855e8654e13ff7f29fdd8796c386`
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=5953e2d7a56a067b7b34f9777bd0a137`
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=0894855e8654e13ff7f29fdd8796c386`
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=d15a0e8af1bc8dfe0d1584ec63f57cc8`
+
+
+
+>Trial subscription：
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=d15a0e8af1bc8dfe0d1584ec63f57cc8`
+
+
+>Trial subscription：
+`https://xn--rhty98cjxd.xyz/api/v1/client/subscribe?token=314a91376ff9c31c1592f1eea35b160e`
+
+
+>Trial subscription：
+`https://xn--rhty98cjxd.xyz/api/v1/client/subscribe?token=314a91376ff9c31c1592f1eea35b160e`
+
+
+
+>Trial subscription：
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=7a9ff5a7349c2fcbe6584fabc47ea80d`
+
+>Trial subscription：
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=7a9ff5a7349c2fcbe6584fabc47ea80d`
 
 
 
